@@ -1,0 +1,10 @@
+# Aktifkan Rewrite jika tersedia
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+</IfModule>
+
+# Izinkan akses ke semua file
+Require all granted
+
+# Nonaktifkan directory listing (opsional)
+Options -Indexes
